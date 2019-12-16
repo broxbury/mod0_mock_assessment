@@ -1,0 +1,10 @@
+instance: sailBoat
+
+color: 'white'
+isSeaworthy: true
+decals: ['name', 'registration', 'origin', 'logo']
+
+
+Methods:
+calculatePercentFull (5 / 10 = .5)
+addPassenger (5 + 1 = 6)
