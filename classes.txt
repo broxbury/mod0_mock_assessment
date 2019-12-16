@@ -1,0 +1,15 @@
+Class: Boat
+
+Attributes:
+color (string)
+boatType (string)
+isSeaworthy (boolean)
+totalPassengerCapacity (integer)
+decals (array)
+
+Methods:
+calculatePercentFull (dives currentPassengerCapacity by totalPassengerCapacity)
+addDecal (append a decal item into the decal array)
+seaworthy (change isSeaworthy = true)
+changeColor (changes the color attribute)
+addPassenger (adds 1 to currentCapacity)
